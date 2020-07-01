@@ -1,0 +1,26 @@
+.click-button{
+    border:none;
+    width: 200px;
+    height: 80px;
+    font-size: 20px;
+    margin: 20px auto;
+    color:gray;
+    font-weight: bold;
+    padding: 20px;
+    border:2px blue solid;
+    border-radius: 3px;
+
+    transition-duration: 400ms;
+}
+.click-button:hover{
+    background-color: blue;
+    border:2px white solid;
+    font-weight: bold;
+    color:white;
+}
+
+.container{
+    background-color: blue;
+    text-align: center;
+    border: 5px black solid;
+}
